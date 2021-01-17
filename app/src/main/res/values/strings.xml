@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Githup User API</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Search here</string>
+    <string name="tab_1" />
+    <string name="tab_2" />
+    <string name="nama_login">Nama Login</string>
+    <string name="http_www_amikom_ac_id">http://www.amikom.ac.id</string>
+</resources>
